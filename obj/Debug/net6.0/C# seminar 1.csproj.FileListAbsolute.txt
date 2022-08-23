@@ -1,5 +1,0 @@
-C:\Users\barik\Desktop\C# seminar 1\obj\Debug\net6.0\C# seminar 1.csproj.AssemblyReference.cache
-C:\Users\barik\Desktop\C# seminar 1\obj\Debug\net6.0\C# seminar 1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\barik\Desktop\C# seminar 1\obj\Debug\net6.0\C# seminar 1.AssemblyInfoInputs.cache
-C:\Users\barik\Desktop\C# seminar 1\obj\Debug\net6.0\C# seminar 1.AssemblyInfo.cs
-C:\Users\barik\Desktop\C# seminar 1\obj\Debug\net6.0\C# seminar 1.csproj.CoreCompileInputs.cache
